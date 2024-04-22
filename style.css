@@ -1,0 +1,28 @@
+body {
+  padding-left: 11em;
+  text-align: center;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: white;
+  background-color: #566573 }
+ul.navbar {
+  list-style-type: none;
+  text-align: center
+}
+li {
+  background-color: #F6E3CA;
+  border: #D7C8B6 2px solid;
+  display: inline;
+  margin-right: 10px;
+}
+
+a {
+  color: black;
+  padding: 0 4px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: #D7C8B6;
+}
